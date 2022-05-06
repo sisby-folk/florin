@@ -1,0 +1,11 @@
+*.cls
+*.bas
+*.frm
+*.frx
+*.doccls
+*.directory
+!Fln*.bas
+!Fln*.cls
+!Fln*.frm
+!Fln*.frx
+/.idea/
